@@ -10,7 +10,7 @@
 
 # 本案例分析在这里
 
-[**Spring Boot JPA操作数据(六)**]()
+[**Spring Boot JPA操作数据(六)**](https://eirunye.github.io/2018/09/29/Spring-Boot-JPA%E6%93%8D%E4%BD%9C%E6%95%B0%E6%8D%AE-%E5%85%AD/)
 
 # 我的博客
 
